@@ -1,1 +1,10 @@
-
+pandas
+numpy
+faiss-cpu
+torch
+transformers
+Pillow
+requests
+ollama
+fastapi
+streamlit
